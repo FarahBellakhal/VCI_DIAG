@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "IP_7.3_GRA_DoIPMessage_EN.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

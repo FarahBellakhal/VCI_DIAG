@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-VICIDIAG/Pods-VICIDIAG-frameworks.sh
+${BUILT_PRODUCTS_DIR}/NWWebSocket/NWWebSocket.framework
+${BUILT_PRODUCTS_DIR}/PusherSwift/PusherSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftEntryKit/SwiftEntryKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftSpinner/SwiftSpinner.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/TweetNacl/TweetNacl.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework

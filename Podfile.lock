@@ -1,0 +1,40 @@
+PODS:
+  - iOSDropDown (0.4.0)
+  - NWWebSocket (0.5.2)
+  - PusherSwift (9.2.2):
+    - NWWebSocket (~> 0.5.2)
+    - TweetNacl (~> 1.0.0)
+  - SwiftEntryKit (2.0.0)
+  - SwiftSpinner (2.2.0)
+  - SwiftyJSON (4.3.0)
+  - TweetNacl (1.0.2)
+
+DEPENDENCIES:
+  - iOSDropDown
+  - PusherSwift (~> 9.0)
+  - SwiftEntryKit (= 2.0.0)
+  - SwiftSpinner
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - NWWebSocket
+    - PusherSwift
+    - SwiftEntryKit
+    - SwiftSpinner
+    - SwiftyJSON
+    - TweetNacl
+
+SPEC CHECKSUMS:
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  NWWebSocket: 21f0c73639815da3272862c912275b26102aa80c
+  PusherSwift: 8b252244aca6a662572be48a97b756d14cd7542c
+  SwiftEntryKit: 61b5fa36f34a97dd8013e48a7345bc4c4720be9a
+  SwiftSpinner: f9b59477fe107427f2b5b835497d6636fa167ede
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  TweetNacl: 3abf4d1d2082b0114e7a67410e300892448951e6
+
+PODFILE CHECKSUM: 0f3eb05c5f9e3e09ed1393c1adc78bc02cae3e2e
+
+COCOAPODS: 1.11.2

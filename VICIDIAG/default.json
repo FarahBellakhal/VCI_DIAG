@@ -1,0 +1,39 @@
+{
+  "Car": [],
+  "ECU": [],
+  "Marque": [
+    {
+      "brandName": "Peugeot"
+    },
+    {
+      "brandName": ""
+    },
+    {
+      "brandName": ""
+    },
+    {
+      "brandName": ""
+    },
+    {
+      "brandName": "Citroen"
+    },
+    {
+      "brandName": "BMW"
+    },
+    {
+      "brandName": ""
+    },
+    {
+      "brandName": ""
+    },
+    {
+      "brandName": "AUDI"
+    }
+  ],
+  "Model": [],
+  "__Class": [],
+  "__Permission": [],
+  "__Realm": [],
+  "__Role": [],
+  "__User": []
+}

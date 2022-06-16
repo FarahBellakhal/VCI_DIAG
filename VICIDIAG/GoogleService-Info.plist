@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>317071290150-nr79iukii34kml335uk5vdll30djjn6h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.317071290150-nr79iukii34kml335uk5vdll30djjn6h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqWOimKuTtXpjIr32yGPck_P4QAT9-DPk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>317071290150</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>actia.VICIDIAG</string>
+	<key>PROJECT_ID</key>
+	<string>diagnostic-108a9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diagnostic-108a9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:317071290150:ios:8847a6aa0e7187bfaf5be7</string>
+	<key>DATABASE_URL</key>
+	<string>https://diagnostic-108a9-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

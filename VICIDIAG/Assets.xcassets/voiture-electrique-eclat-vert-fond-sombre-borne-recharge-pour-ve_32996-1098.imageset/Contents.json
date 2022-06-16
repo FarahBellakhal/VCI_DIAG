@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "voiture-electrique-eclat-vert-fond-sombre-borne-recharge-pour-ve_32996-1098.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
