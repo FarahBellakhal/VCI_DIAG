@@ -153,7 +153,7 @@ void Tester_DIAG_MESSAGE(unsigned char instanceID)
 
 }
                                // FONCTION READ//
-/*char readResponse(){
+char readResponse(){
     //TODO: TO handle also the pending responses
     printf("Getting response ...\n");
     unsigned char Response[256]= {0};
@@ -195,7 +195,7 @@ void Tester_DIAG_MESSAGE(unsigned char instanceID)
        // n = 0;
 
         return Response[n];
-}*/
+}
                            // FONCTION StopDIAG_MESSAGE//
 void Tester_StopDIAG_MESSAGE(unsigned char instanceID)
 {
